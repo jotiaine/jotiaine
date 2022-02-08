@@ -4,7 +4,7 @@
 #### The goal is to become a proficient software engineer and I'm willing to put in the work. Zero fluff.
 - 🔭 I’m currently working on all kinds of JS projects to solidify what I've learned so far. 
 - 🌱 I’m currently learning JavaScript, ReactJS, Angular,  Node.js, Python & Bootstrap
-- 👯 I’m looking to collaborate on anyone who wants to become a better developer!
+- 👯 I’m looking to collaborate with anyone who wants to become a better developer!
 - ⚡ Fun fact: I have too many Udemy courses atm.
 
 - 📫 How to reach me: support@jonitiainen.com
