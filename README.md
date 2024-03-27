@@ -4,4 +4,4 @@
 #### Graduation in 2023.
 
 - 🔭 I’m currently working on mobile programming, Kotlin, Flutter, Python, AI and MERN. 
-- 📫 How to reach me: support@jonitiainen.com
+- 📫 How to reach me: joni.tiainen1@gmail.com
